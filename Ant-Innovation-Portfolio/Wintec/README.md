@@ -9,16 +9,16 @@
 ![](https://github.com/tasnim04/Anthony-Innov-work/blob/main/Ant-Innovation-Portfolio/Wintec/Wintec%20Sliding%20Window%20Carriage%20(View%202).jpg)
 
 #### System overview 1 (CAD)
-![]()
+![](https://github.com/tasnim04/Anthony-Innov-work/blob/main/Ant-Innovation-Portfolio/Wintec/Wintec%20(Full%20System%20View%201)%20(CAD).PNG)
 
 #### System overview 2 (CAD)
-![]()
+![](https://github.com/tasnim04/Anthony-Innov-work/blob/main/Ant-Innovation-Portfolio/Wintec/Wintec%20(Full%20System%20View%202)%20(CAD).PNG)
 
 #### Extrusion fitting overview 1 (CAD)
-![]()
+![](https://github.com/tasnim04/Anthony-Innov-work/blob/main/Ant-Innovation-Portfolio/Wintec/Wintec%20Extrusion%20View%201.PNG)
 
-#### Extrusion fitting overview 1 (CAD)
-![]()
+#### Extrusion fitting overview 2 (CAD)
+![](https://github.com/tasnim04/Anthony-Innov-work/blob/main/Ant-Innovation-Portfolio/Wintec/Wintec%20Extrusion%20View%202.PNG)
 
 #### Top view (CAD) (After 2 Tooling reviews)
 ![](https://github.com/tasnim04/Anthony-Innov-work/blob/main/Ant-Innovation-Portfolio/Wintec/Wintec%20(top%20view).PNG)
