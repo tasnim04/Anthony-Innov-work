@@ -31,3 +31,14 @@
 
 #### Bottom view (no wheel) (CAD) (After 3 Tooling reviews)
 ![](https://github.com/tasnim04/Anthony-Innov-work/blob/main/Ant-Innovation-Portfolio/Wintec/Wintec%20(no%20wheel)%20(bottom).PNG)
+
+## Injection Molding info
+
+#### Mold Tool Design 1 (CAD)
+![](https://github.com/tasnim04/Anthony-Innov-work/blob/main/Ant-Innovation-Portfolio/Wintec/Mold%20Tool%20design%201.PNG)
+
+#### Mold Tool Design 2 (Ejector Pin side) (CAD)
+![](https://github.com/tasnim04/Anthony-Innov-work/blob/main/Ant-Innovation-Portfolio/Wintec/Mold%20Tool%20design%201%20(Ejector%20Pin%20side).PNG)
+
+#### Mold Tool Design 3 (Ejector Pin side) (CAD)
+![](https://github.com/tasnim04/Anthony-Innov-work/blob/main/Ant-Innovation-Portfolio/Wintec/Mold%20Tool%20design%202%20(Ejector%20Pin%20side).PNG)
