@@ -20,14 +20,14 @@
 #### Extrusion fitting overview 2 (CAD)
 ![](https://github.com/tasnim04/Anthony-Innov-work/blob/main/Ant-Innovation-Portfolio/Wintec/Wintec%20Extrusion%20View%202.PNG)
 
-#### Top view (CAD) (After 2 Tooling reviews)
+#### Top view (CAD) (After 3 Tooling reviews)
 ![](https://github.com/tasnim04/Anthony-Innov-work/blob/main/Ant-Innovation-Portfolio/Wintec/Wintec%20(top%20view).PNG)
 
-#### Bottom view (CAD) (After 2 Tooling reviews)
+#### Bottom view (CAD) (After 3 Tooling reviews)
 ![](https://github.com/tasnim04/Anthony-Innov-work/blob/main/Ant-Innovation-Portfolio/Wintec/Wintec%20(bottom%20view).PNG)
 
-#### Top view (no wheel) (CAD) (After 2 Tooling reviews)
+#### Top view (no wheel) (CAD) (After 3 Tooling reviews)
 ![](https://github.com/tasnim04/Anthony-Innov-work/blob/main/Ant-Innovation-Portfolio/Wintec/Wintec%20(no%20wheel)%20(top).PNG)
 
-#### Bottom view (no wheel) (CAD) (After 2 Tooling reviews)
+#### Bottom view (no wheel) (CAD) (After 3 Tooling reviews)
 ![](https://github.com/tasnim04/Anthony-Innov-work/blob/main/Ant-Innovation-Portfolio/Wintec/Wintec%20(no%20wheel)%20(bottom).PNG)
